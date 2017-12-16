@@ -1,2 +1,2 @@
 # To run it, try
-python pacman.py -p DeepQAgent -n 6000 -x 5000 -l smallGrid -q
+python pacman.py -p DeepQAgent -n 2000 -x 2000 -l smallGrid -q
